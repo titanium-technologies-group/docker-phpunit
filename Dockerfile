@@ -20,7 +20,7 @@ RUN apk --no-cache add \
         php7-exif \
         php7-fileinfo \
         php7-gd \
-        php7-iconv
+        php7-iconv \
         php7-json \
         php7-ldap \
         php7-mbstring \
